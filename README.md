@@ -1,3 +1,7 @@
+<img width="552" height="637" alt="Photo4" src="https://github.com/user-attachments/assets/0483deed-3d43-4812-b433-6b21e8b377b0" />
+<img width="1600" height="735" alt="Photo3" src="https://github.com/user-attachments/assets/237e2a4f-e8b2-4257-93f1-fd7dc64edb4a" />
+<img width="1600" height="737" alt="Photo2" src="https://github.com/user-attachments/assets/a7c0c0af-f048-4899-9647-a1349f323c92" />
+<img width="1486" height="748" alt="Photo1" src="https://github.com/user-attachments/assets/087fe6c0-be17-4478-9be2-0ecbfd36b4d4" />
 # Paralympics Athletes & Standings Dashboard
 
 ## Project Overview
