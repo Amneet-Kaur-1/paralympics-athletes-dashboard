@@ -1,12 +1,12 @@
 # Paralympics Athletes & Standings Dashboard
 
-## 📌 Project Overview
+## Project Overview
 
 This project is an interactive Power BI dashboard developed to analyze the performance and participation of Paralympic athletes across different countries, sports, seasons, and events. The dashboard enables users to explore key insights through interactive visualizations, KPI cards, and filters.
 
 ---
 
-## 🎯 Objectives
+## Objectives
 
 - Analyze athlete participation across countries.
 - Compare medal distribution across different sports.
@@ -16,7 +16,7 @@ This project is an interactive Power BI dashboard developed to analyze the perfo
 
 ---
 
-## 🛠️ Tools & Technologies
+## Tools & Technologies
 
 - Microsoft Power BI Desktop
 - Power Query
@@ -28,22 +28,22 @@ This project is an interactive Power BI dashboard developed to analyze the perfo
 
 ## 📊 Dashboard Features
 
-- 📌 KPI Cards for Total Athletes, Medal Type, and Total Events
-- 🌍 Interactive Country Map
-- 🥇 Medal Distribution by Sport and Season
+-  KPI Cards for Total Athletes, Medal Type, and Total Events
+-  Interactive Country Map
+-  Medal Distribution by Sport and Season
 - 📈 Country-wise Athlete Analysis
 - 📉 Event Trends
-- 🎛️ Interactive Filters and Slicers
+-  Interactive Filters and Slicers
 
 ---
 
-## 📷 Dashboard Preview
+## Dashboard Preview
 
 *(Dashboard screenshots will be added here.)*
 
 ---
 
-## 📁 Repository Contents
+## Repository Contents
 
 - `Paralympics_Athletes_Dashboard.pbix`
 - `README.md`
@@ -51,7 +51,7 @@ This project is an interactive Power BI dashboard developed to analyze the perfo
 
 ---
 
-## 🚀 Future Improvements
+## Future Improvements
 
 - Add additional KPIs and performance metrics.
 - Improve dashboard responsiveness.
@@ -60,7 +60,7 @@ This project is an interactive Power BI dashboard developed to analyze the perfo
 
 ---
 
-## 👩‍💻 Author
+## Author
 
 **Amneet Kaur**
 
