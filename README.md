@@ -43,12 +43,6 @@ This project is an interactive Power BI dashboard developed to analyze the perfo
 
 ---
 
-## Dashboard Preview
-
-*(Dashboard screenshots will be added here.)*
-
----
-
 ## Repository Contents
 
 - `Paralympics_Athletes_Dashboard.pbix`
